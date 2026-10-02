@@ -6,6 +6,14 @@ The portfolio showcases my profile, academic background, technical skills, proje
 
 ---
 
+## 🔗 Live Links
+
+🌐 **Live Portfolio:**[View My Portofolio](https://avulaprashanthirao.github.io/Portfolio/)
+
+📁 **GitHub Repository:**[View GitHub Repository](https://github.com/AvulaPrashanthiRao/Portfolio)
+
+---
+
 ## 📌 About the Project
 
 This project is a personal portfolio web application designed using:
@@ -37,12 +45,14 @@ The website is designed to be responsive, accessible, visually consistent, and i
 ## 🛠️ Technologies Used
 
 ### Frontend
+
 - **HTML5** – Semantic webpage structure
 - **CSS3** – Styling, layouts, animations, and responsive design
 - **Bootstrap** – Responsive grid, navbar, cards, buttons, and forms
 - **JavaScript ES6+** – Interactivity and DOM manipulation
 
-### Other
+### Other Technologies
+
 - Bootstrap Icons
 - Git
 - GitHub
@@ -52,7 +62,7 @@ The website is designed to be responsive, accessible, visually consistent, and i
 ## 📂 Project Structure
 
 ```text
-personal-portfolio/
+Portfolio/
 │
 ├── index.html
 ├── style.css
@@ -61,8 +71,3 @@ personal-portfolio/
 │
 └── images/
     └── profile.jpeg
-
-##🔗 Links
-
-- 🌐 Live Portfolio: "View Live Portfolio" https://avulaprashanthirao.github.io/Portfolio/
-- 💻 GitHub Repository: "View GitHub Repository" https://github.com/AvulaPrashanthiRao/Portfolio.git
