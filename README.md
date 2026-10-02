@@ -61,5 +61,9 @@ personal-portfolio/
 │
 └── images/
     └── profile.jpeg
+## 🔗 Links
 
-Live Portfolio: https://avulaprashanthirao.github.io/Portfolio/
+🌐 **Live Portfolio:** https://yourusername.github.io/repository-name/
+
+📁 **GitHub Repository:** https://github.com/yourusername/repository-name
+
