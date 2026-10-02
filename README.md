@@ -65,5 +65,5 @@ personal-portfolio/
 
 🌐 **Live Portfolio:** https://yourusername.github.io/repository-name/
 
-📁 **GitHub Repository:** https://github.com/yourusername/repository-name
+📁 **GitHub Repository:** https://github.com/AvulaPrashanthiRao/Portfolio.git
 
